@@ -3,7 +3,7 @@
 <h1 align='center'> 
   👋💎 Olá timão < Developers />! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"/>
 
-  <h3 align='center'> # Eu sou a Jess!</h3>
+  <h3 align='center'> Eu sou a Jess!</h3>
   </h1>
  <p align='center'><i>Basta um passo para sair do lugar</i></p>
 </div>
