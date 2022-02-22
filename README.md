@@ -8,12 +8,6 @@
  <p align='center'><i>Basta um passo para sair do lugar</i></p>
 </div>
 
-<h5 align="center">
-  <code>
-    <a target="_blank" href="https://www.linkedin.com/in/jessica-damaceno/" title="LinkedIn"> 
-      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
-  </code>
-</h5>
 
 <img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800/https://deploystore.com.br/wp-content/uploads/2020/04/mulher-programando-capa.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
@@ -21,7 +15,7 @@
 
 - 🧑‍💻 Desenvolvedora Full-Stack
 - 👩‍💻🎓 Formada como pessoa desenvolvedora web (Full Stack Web Developer) pela [Labenu](https://www.labenu.com.br/) e atualmente, graduada, pós graduada em dança pela Escola de [Dança](http://www.danca.ufba.br/en) da [UFBA](https://www.ufba.br/) 🎓 <a href="https://www.labenu.com.br/" target="_blank"> <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>
-- 💌 Aqui mora um coração aberto a um bom diálogo, trocas, partilha de ideias, dúvidas, ajuda, saberes diversos, parcerias e novas conexões. Você pode contactar-me através do e-mail: JJ7ECNO@gmail.com, ou linkedin se preferir. 
+- 💌 Aqui mora um coração aberto a um bom diálogo, trocas, partilha de ideias, dúvidas, ajuda, saberes diversos, parcerias e novas conexões. Você pode contactar-me através do e-mail: JJ7ECNO@gmail.com, ou [Linkedin](https://www.linkedin.com/in/jessica-damaceno/) se preferir. 
 - 💬 Vamos bater um papo legal?
 
 ## Tecnologias e Ferramentas
@@ -51,4 +45,10 @@
 <div align='center'>
 <p> Apareça novamente, e conecte-se... 😁</p>
 </div>
+<h5 align="center">
+  <code>
+    <a target="_blank" href="https://www.linkedin.com/in/jessica-damaceno/" title="LinkedIn"> 
+      <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  </code>
+</h5>
 
