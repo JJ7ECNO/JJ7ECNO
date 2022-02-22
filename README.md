@@ -49,6 +49,6 @@
 <hr />
 
 <div align='center'>
-<p> Obrigada pela visita 😁</p>
+<p> Apareça novamente, e conecte-se... 😁</p>
 </div>
 
