@@ -15,7 +15,7 @@
   </code>
 </h5>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800/https://deploystore.com.br/wp-content/uploads/2020/04/mulher-programando-capa.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 ## Sobre mim
 
