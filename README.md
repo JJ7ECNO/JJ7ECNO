@@ -44,7 +44,7 @@
      <img src="https://as2.ftcdn.net/v2/jpg/04/22/99/39/1000_F_422993928_XW7FZI9sFEnXpSq9lXXdNgYyfRqK4DVS.jpg" min-width="125px" max-width="125px" width="125px"  alt="developer">
    </code>
     <code align='right'>
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="840px" max-width="840px" width="840px" align="right" alt="Computador">
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="750px" max-width="750px" width="750px" align="right" alt="Computador">
   </code>
  </h5>
   
