@@ -36,8 +36,6 @@
 
 ##
 
- <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="830px" max-width="830px" width="830px" align="right" alt="Computador">
-
 <!-- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
 <!--   </code> -->
 
@@ -45,14 +43,18 @@
    <code>
      <img src="https://as2.ftcdn.net/v2/jpg/04/22/99/39/1000_F_422993928_XW7FZI9sFEnXpSq9lXXdNgYyfRqK4DVS.jpg" min-width="150px" max-width="150px" width="150px"  alt="developer">
    </code>
+    <code align='right'>
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="830px" max-width="830px" width="830px" align="right" alt="Computador">
+  </code>
  </h5>
-
+  
+<code>
 <h5 align="center">
   
 <div align='center'>
   <p> Apareça novamente, e conecte-se... 😁</p>
 </div>
-  
+  </code> 
 <hr />
 
   <code>
