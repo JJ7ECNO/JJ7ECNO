@@ -36,16 +36,18 @@
 
 ##
 
-<!-- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
 <!--   </code> -->
 
- <h5 align='left'>
+ <h5 align='center'>
    <code>
      <img src="https://as2.ftcdn.net/v2/jpg/04/22/99/39/1000_F_422993928_XW7FZI9sFEnXpSq9lXXdNgYyfRqK4DVS.jpg" min-width="125px" max-width="125px" width="125px"  alt="developer">
    </code>
-    <code align='right'>
+
+<!--     <code align='right'>
  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="750px" max-width="750px" width="750px" align="right" alt="Computador">
-  </code>
+  </code> -->
+   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
  </h5>
   
   <br/>
