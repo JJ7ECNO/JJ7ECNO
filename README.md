@@ -9,7 +9,7 @@
 </div>
 
 
-<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800/https://deploystore.com.br/wp-content/uploads/2020/04/mulher-programando-capa.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+<img src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_800/https://deploystore.com.br/wp-content/uploads/2020/04/mulher-programando-capa.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 ## Sobre mim
 
@@ -36,19 +36,29 @@
 
 ##
 
+ <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" min-width="830px" max-width="830px" width="830px" align="right" alt="Computador">
 
+<!-- ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
+<!--   </code> -->
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+ <h5 align='left'>
+   <code>
+     <img src="https://as2.ftcdn.net/v2/jpg/04/22/99/39/1000_F_422993928_XW7FZI9sFEnXpSq9lXXdNgYyfRqK4DVS.jpg" min-width="150px" max-width="150px" width="150px"  alt="developer">
+   </code>
+ </h5>
 
+<h5 align="center">
+  
+<div align='center'>
+  <p> Apareça novamente, e conecte-se... 😁</p>
+</div>
+  
 <hr />
 
-<div align='center'>
-<p> Apareça novamente, e conecte-se... 😁</p>
-</div>
-<h5 align="center">
   <code>
     <a target="_blank" href="https://www.linkedin.com/in/jessica-damaceno/" title="LinkedIn"> 
       <img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
   </code>
 </h5>
+  <h5 align='center'><code><img src="https://img.freepik.com/vetores-gratis/rosto-sorridente-garota-africana-ok-gesto-de-mao-cuidados-com-a-pele-conceito-de-maquiagem-promove-feedback-apos-o-uso_550427-89.jpg" min-width="150px" max-width="150px" width="150px"  alt="developer"></code></h5>
 
