@@ -14,7 +14,7 @@
 ## Sobre mim
 
 - 🧑‍💻 Desenvolvedora Full-Stack
-- 👩‍💻🎓 Formada como pessoa desenvolvedora web (Full Stack Web Developer) pela [Labenu](https://www.labenu.com.br/)  <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>, graduada e pós graduada em Dança pela Escola de [Dança](http://www.danca.ufba.br/en) da [UFBA](https://www.ufba.br/) 🎓 <a href="https://www.labenu.com.br/" target="_blank">
+- 👩‍💻🎓 Formada como pessoa desenvolvedora web (Full Stack Web Developer) pela [Labenu](https://www.labenu.com.br/)  <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eab0f1225c2d474a92656df_fav2_LabeNu_.png" alt="labenu" width="30" height="30"/> </a>, graduada e pós graduada em Dança pela Escola de [Dança](http://www.danca.ufba.br/en) da [UFBA](https://www.ufba.br/) e graduanda em [Engenharia de Computação](http://www.eng.ufba.br/) - UFBA 🎓 <a href="https://www.labenu.com.br/" target="_blank">
 - 💌 Aqui mora um coração aberto a um bom diálogo, trocas, partilha de ideias, dúvidas, ajuda, saberes diversos, parcerias e novas conexões. Você pode contactar-me através do e-mail: JJ7ECNO@gmail.com, ou [Linkedin](https://www.linkedin.com/in/jessica-damaceno/) se preferir. 
 - 💬 Vamos bater um papo legal?
 
